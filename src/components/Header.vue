@@ -70,7 +70,7 @@ onUnmounted(() => {
                         <i class="bi bi-person"></i> Your Profile
                     </button>
                     <button class="b1">
-                        <i class="bi bi-box-arrow-right"></i> Sign Outtttttttttttttttt
+                        <i class="bi bi-box-arrow-right"></i> Sign Out
                     </button>
                 </ul>
             </div>
